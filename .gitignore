@@ -1,0 +1,24 @@
+.DS_Store
+
+# Proposal repo is tracked as a submodule and managed separately
+/DSCI601-Project_Proposal/*.pdf
+/DSCI601-Project_Proposal/*.aux
+/DSCI601-Project_Proposal/*.bbl
+/DSCI601-Project_Proposal/*.blg
+/DSCI601-Project_Proposal/*.fdb_latexmk
+/DSCI601-Project_Proposal/*.fls
+/DSCI601-Project_Proposal/*.log
+/DSCI601-Project_Proposal/*.out
+/DSCI601-Project_Proposal/*.synctex.gz
+/DSCI601-Project_Proposal/*.xdv
+
+# Keep the workspace lightweight and local-only
+/course_materials/
+/2021 DSCI-601: Team Formation
+/Spring 2026 Data Science Capstone Pitch Signup Sheet
+/Spring 2026 Data Science Capstone Pitch Signup Sheet (1)
+
+# Track the implementation scaffold and workspace overview
+!/README.md
+!/implementation/
+!/implementation/**
