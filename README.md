@@ -22,6 +22,10 @@ The split is:
 
 - Share the current proposal PDF from:
   - [proposal.pdf](/Users/pitergarcia/DataScience/Semester5/DSCI601/DSCI601-Project_Proposal/proposal.pdf)
+- Share or review the synced related-work survey from:
+  - [survey-related-work.tex](/Users/pitergarcia/DataScience/Semester5/DSCI601/DSCI601-Project_Proposal/survey-related-work.tex)
+- Review the latest survey sync notes in:
+  - [survey_revision_log.md](/Users/pitergarcia/DataScience/Semester5/DSCI601/DSCI601-Project_Proposal/survey_revision_log.md)
 - Prepare the implementation in:
   - [implementation/code](/Users/pitergarcia/DataScience/Semester5/DSCI601/implementation/code)
 - Prepare the next review cycle in:
